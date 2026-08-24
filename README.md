@@ -17,7 +17,7 @@
 
 <td width="40%" align="center">
 
-<img src="./image.webp" width="300" alt="Event Horizon"/>
+<img src="./image.png" width="300" alt="Event Horizon"/>
 
 </td>
 
