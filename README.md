@@ -157,32 +157,35 @@ MANIFESTO    : Understand. Build. Explore.
 
   ### Skill Matrix
 
-  <box radius=md clip border=1>
-    <AsyncImage query="futuristic programming skill matrix donut chart dark HUD" aspectRatio="5:3" width="100%" maxHeight=420/>
-  </box>
+ ---
 
-  ---
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=650&color=D4A15A&center=true&vCenter=true&width=720&lines=%5B+SKILL+DIAGNOSTICS+%3A%3A+INITIALIZING+%5D;SCANNING+CORE+COMPETENCIES...;%5B+SKILL+MATRIX+ONLINE+%5D"/>
+</p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=650&color=7AA2F7&center=true&vCenter=true&width=720&lines=%5B+NEURAL+MAPPING+%3A%3A+ENGAGED+%5D;CALCULATING+RELATIVE+STRENGTHS...;%5B+NEURAL+RADAR+ONLINE+%5D"/>
-  </p>
+# ▶ Skill Diagnostics
 
-  ### Neural Radar
+### Skill Matrix
 
-  <box radius=md clip border=1>
-    <AsyncImage query="futuristic neural radar hexagon HUD blue dark interface" aspectRatio="5:3" width="100%" maxHeight=420/>
-  </box>
-
-  <caption>Diagnostics reflect current learning depth • Updated throughout the expedition.</caption></box>
+<p align="center">
+  <img src="image.png" width="720" alt="Skill Matrix"/>
+</p>
 
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+MATHEMATICAL+MODULE+%3A%3A+ACTIVE+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=650&color=7AA2F7&center=true&vCenter=true&width=720&lines=%5B+NEURAL+MAPPING+%3A%3A+ENGAGED+%5D;CALCULATING+RELATIVE+STRENGTHS...;%5B+NEURAL+RADAR+ONLINE+%5D"/>
 </p>
 
-<box background=surface radius=md border=1 padding=3 gap=2>
-  <row justify=between align=center><row gap=2 align=center><icon name=sigma color=info/>
+### Neural Radar
+
+<p align="center">
+  <img src="gg.svg" width="720" alt="Neural Radar"/>
+</p>
+
+<p align="center">
+<sub>Diagnostics reflect current learning depth • Updated throughout the expedition.</sub>
+</p>
 
 **MATHEMATICAL MODULE**</row><badge label=ACTIVE color=info/></row>
 
