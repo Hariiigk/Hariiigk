@@ -16,7 +16,7 @@
 
 <td width="42%" align="center">
 
-<img src="./assets/gargantua.webp" width="280" alt="Event Horizon"/>
+<img src="./image.png" width="280" alt="Event Horizon"/>
 
 </td>
 </tr>
