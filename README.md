@@ -1,38 +1,41 @@
-<!-- ========================================================= -->
-<!--                HARI G K :: OBSERVATORY                    -->
-<!-- ========================================================= -->
-
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1400&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hari+G+K" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1500&pause=700&color=FFFFFF&center=true&vCenter=true&width=720&lines=Hari+G+K"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=900&pause=800&color=7AA2F7&center=true&vCenter=true&width=760&lines=Engineering+Student;C%2B%2B+%7C+DSA+%7C+Physics+%7C+Mathematics;Software+Engineering+%7C+Problem+Solving;Curiosity+Protocol%3A+ACTIVE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=900&pause=700&color=7AA2F7&center=true&vCenter=true&width=760&lines=Engineering+Student;C%2B%2B+%7C+DSA+%7C+Physics+%7C+Mathematics;Software+Engineering+%7C+Problem+Solving;Curiosity+Protocol%3A+ACTIVE"/>
+
+</p>
+
+---
+
+<p align="center">
+
+`>> SYSTEM INITIALIZING...`
 
 </p>
 
 <table border="0">
 <tr>
 
-<td width="60%" valign="middle">
+<td width="58%" valign="middle">
 
-## SYSTEM STATUS
+# Hari G K
 
-```text
-IDENTITY     : HARI G K
-STATUS       : ENGINEERING STUDENT
-MISSION      : SOFTWARE ENGINEERING
-CORE         : C++ • DSA
-INTERESTS    : PHYSICS • MATHEMATICS
-COORDINATES  : EARTH
-```
+### Engineering Student | C++ • DSA • Physics • Mathematics
+
+*"Reality is written in mathematics. Software is how we converse with it."*
+
+> Discipline in the soul. Curiosity in the mind.
+
+Observing reality through mathematics. Building systems through code.
 
 </td>
 
-<td width="40%" align="center">
+<td width="42%" align="center">
 
-<img src="./wp10466292.jpg" width="300" alt="Event Horizon"/>
+<img src="./assets/image.png" width="300"/>
 
 </td>
 
@@ -41,21 +44,17 @@ COORDINATES  : EARTH
 
 <p align="center">
 
-*"Reality is written in mathematics. Software is how we converse with it."*
-
-**Discipline in the soul. Curiosity in the mind.**
+`[ IDENTITY CONFIRMED ] [ CORE SYSTEM ONLINE ] [ CURIOSITY PROTOCOL ACTIVE ]`
 
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=650&lines=%5B+FIELD+MODULE+%3A%3A+INITIALIZING+%5D;%5B+IDENTITY+DATA+LOADED+%5D;%5B+FIELD+MODULE+ONLINE+%5D"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+FIELD+MODULE+%3A%3A+INITIALIZED+%5D"/>
 </p>
 
-# ◉ Field Log
+# ▶ Field Log
 
 ```text
 SEEKER       : Hari G K
@@ -67,72 +66,62 @@ MANIFESTO    : Understand. Build. Explore.
 ```
 
 <details>
-<summary>Field Notes</summary>
+<summary>FIELD NOTES</summary>
 
-- Building a strong foundation in C++ and DSA.
-- Interested in how mathematics and physics explain real-world systems.
-- Exploring software as a way to turn abstract ideas into practical tools.
+- Building strong foundations in C++ and DSA.
+- Interested in mathematics, algorithms and physics.
+- Enjoy converting abstract ideas into practical systems.
 
 </details>
 
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+RESEARCH+MODULE+BOOTING+%5D;Analyzing+Patterns...;Testing+Hypotheses...;%5B+RESEARCH+MODULE+ACTIVE+%5D"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+RESEARCH+MODULE+%3A%3A+ONLINE+%5D"/>
 </p>
 
-# ∫ Research Notes
+# ▶ Research Notes
 
-I enjoy understanding **why** something works before learning **how** to build it.
+I enjoy breaking complicated ideas into smaller systems and understanding the reasoning behind them.
 
-Current interests sit where three worlds meet:
+## Current Focus
 
-- **Algorithms** → turning logic into efficient solutions.
-- **Mathematics** → discovering hidden patterns.
-- **Physics** → understanding the rules governing reality.
-
-### Current Focus
-
-- C++ programming
+- C++ Programming
 - Data Structures
 - Algorithms
-- Mathematical thinking
-- Physics-inspired curiosity
-- Building practical projects
+- Mathematics
+- Physics
+- Real-world Projects
 
-### Questions I Like Exploring
+## Questions I Like Exploring
 
 ```text
-Why does an algorithm work?
+> Why does an algorithm work?
 
-Can a complex problem become a simple model?
+> Can a complex problem become a simple model?
 
-How does mathematics describe reality?
+> How does mathematics describe reality?
 
-What makes a solution elegant?
+> What makes a solution elegant?
 ```
 
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=650&lines=%5B+COMPUTATIONAL+CORE+LOADING+%5D;Detecting+Languages...;Detecting+Tools...;%5B+CORE+ONLINE+%5D"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+COMPUTATIONAL+CORE+%3A%3A+LOADED+%5D"/>
 </p>
 
-# ⚙ Toolchain
+# ▶ Toolchain
 
-## Languages
+### Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,mongodb"/>
 
 </p>
 
-## Tools
+### Tools
 
 <p align="center">
 
@@ -140,32 +129,55 @@ What makes a solution elegant?
 
 </p>
 
-## Currently Building Depth
+---
 
-```text
-C++              ███████████████░░░
-Data Structures  ████████████░░░░░░
-Algorithms       ██████████░░░░░░░░
-Python           █████████░░░░░░░░░
-Git              █████████████░░░░░
-Linux            ███████░░░░░░░░░░░
-```
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=720&lines=%5B+SKILL+DIAGNOSTICS+%3A%3A+INITIALIZING+%5D;SCANNING+CORE+COMPETENCIES...;%5B+SKILL+MATRIX+ONLINE+%5D"/>
+</p>
+
+# ▶ Skill Diagnostics
+
+### Skill Matrix
+
+<p align="center">
+
+<img src="./assets/skill-matrix.svg" width="720"/>
+
+</p>
 
 ---
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=650&color=7AA2F7&center=true&vCenter=true&width=720&lines=%5B+NEURAL+MAPPING+%3A%3A+ENGAGED+%5D;CALCULATING+RELATIVE+STRENGTHS...;%5B+NEURAL+RADAR+ONLINE+%5D"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+MATHEMATICAL+MODULE+INITIALIZING+%5D;Loading+Constants...;Loading+Models...;%5B+FRAMEWORK+READY+%5D"/>
+### Neural Radar
+
+<p align="center">
+
+<img src="./assets/neural-radar.svg" width="720"/>
 
 </p>
 
-# ∫ Equations & Principles
+<p align="center">
+
+`Diagnostics reflect current learning depth.`
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+MATHEMATICAL+MODULE+%3A%3A+ACTIVE+%5D"/>
+</p>
+
+# ▶ Equations & Principles
 
 | Equation | Perspective |
-|----------|-------------|
-| `e^(iπ)+1=0` | Beauty in simplicity |
-| `F = ma` | Structure creates motion |
-| `E = mc²` | Hidden relationships |
+|-----------|-------------|
+| `e^(iπ)+1=0` | Beauty in pure relationships |
+| `F=ma` | Motion follows structure |
+| `E=mc²` | Hidden connections exist |
 | `O(log n)` | Better thinking beats brute force |
 | `∇` | Every change has direction |
 
@@ -174,12 +186,10 @@ Linux            ███████░░░░░░░░░░░
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+MISSION+CONTROL+SYNCING+%5D;Objective+Locked.;Mission+Active."/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+MISSION+CONTROL+%3A%3A+ACTIVE+%5D"/>
 </p>
 
-# 🎯 Current Focus
+# ▶ Current Focus
 
 ```text
 PRIMARY OBJECTIVE
@@ -203,79 +213,74 @@ Repeat
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+EXPEDITION+MODULE+TRACKING+%5D;Route+Calculated.;Voyage+Continues."/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+EXPEDITION+MODULE+%3A%3A+TRACKING+%5D"/>
 </p>
 
-# 🧭 Current Expedition
+# ▶ Current Expedition
 
 - [x] Git & GitHub
 - [x] C++ Fundamentals
 - [ ] Complete DSA Roadmap
+- [ ] Strengthen Problem Solving
 - [ ] Build Better Projects
 - [ ] Portfolio Website
-- [ ] Open Source Contributions
+- [ ] Explore Open Source
 
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+PROJECT+MODULE+ACTIVE+%5D;Systems+Under+Construction."/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+PROJECT+MODULE+%3A%3A+ACTIVE+%5D"/>
 </p>
 
-# 📂 Expedition Log
+# ▶ Expedition Log
 
 ### Mission 01 — DSA-Cpp
 
-> Building strong C++ and algorithm fundamentals.
+Building strong C++ and algorithm fundamentals.
 
-**Status:** Active
+**Status:** ACTIVE
 
 ---
 
 ### Mission 02 — Smart Grid
 
-> Efficient power management and monitoring project.
+Power management and monitoring project.
 
-**Status:** Complete
+**Status:** COMPLETE
 
 ---
 
 ### Mission 03 — Mini Projects
 
-> Small experiments while learning.
+Experiments while learning.
 
-**Status:** Ongoing
+**Status:** ONGOING
 
 ---
 
 ### Mission 04 — Portfolio
 
-> Personal developer website.
+Personal developer website.
 
-**Status:** In Development
+**Status:** IN DEVELOPMENT
 
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+TELEMETRY+CONNECTED+%5D;Receiving+GitHub+Signals..."/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+TELEMETRY+MODULE+%3A%3A+CONNECTED+%5D"/>
 </p>
 
-# 📊 GitHub Telemetry
+# ▶ GitHub Telemetry
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariiigk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariiigk&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariiigk&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
-### Commitment Stream
+### Contribution Streak
 
 <p align="center">
 
@@ -286,15 +291,13 @@ Repeat
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+OBSERVATORY+OPENING+%5D;Scanning+the+Unknown..."/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+OBSERVATORY+%3A%3A+OPEN+%5D"/>
 </p>
 
-# 🔭 Observatory
+# ▶ Observatory
 
-| Interest | Meaning |
-|----------|---------|
+| Interest | Inspiration |
+|-----------|-------------|
 | 🌌 Physics | Understanding reality |
 | ∞ Mathematics | Finding hidden patterns |
 | 🧭 One Piece | Adventure beyond the horizon |
@@ -303,31 +306,29 @@ Repeat
 ### Things I Find Fascinating
 
 ```text
-BLACK HOLES
-→ Gravity • Spacetime • Event Horizons
+> BLACK HOLES
+  Gravity • Event Horizons • Spacetime
 
-NEUTRON STARS
-→ Dense Matter • Magnetism
+> NEUTRON STARS
+  Dense Matter • Magnetism
 
-STAR CLUSTERS
-→ Formation • Evolution
+> STAR CLUSTERS
+  Formation • Evolution
 
-ALGORITHMS
-→ Patterns • Efficiency
+> MATHEMATICS
+  Logic • Structure
 
-MATHEMATICS
-→ Logic • Structure
+> ALGORITHMS
+  Patterns • Efficiency
 ```
 
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+COMMUNICATIONS+READY+%5D;Awaiting+New+Connections..."/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+COMMUNICATIONS+%3A%3A+READY+%5D"/>
 </p>
 
-# 📡 Contact
+# ▶ Contact
 
 <p align="center">
 
@@ -349,13 +350,15 @@ MATHEMATICS
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=800&pause=1200&color=D4A15A&center=true&vCenter=true&width=700&lines=SYSTEM+STABLE;MISSION+CONTINUES;CURIOSITY+PROTOCOL+ACTIVE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=900&pause=1100&color=D4A15A&center=true&vCenter=true&width=700&lines=SYSTEM+STABLE;MISSION+CONTINUES;CURIOSITY+PROTOCOL+ACTIVE"/>
 
 <br><br>
 
 ### "The sea is vast. The universe even more so."
 
 **Discipline in the soul. Curiosity in the mind.**
+
+<sub>Keep exploring.</sub>
 
 <br><br>
 
