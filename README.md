@@ -138,7 +138,7 @@ MANIFESTO    : Understand. Build. Explore.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,java,antigravity"/>
 
 </p>
 
