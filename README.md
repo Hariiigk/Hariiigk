@@ -130,7 +130,7 @@ MANIFESTO    : Understand. Build. Explore.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,mongodb"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,mongodb,node.js"/>
 
 </p>
 
@@ -138,7 +138,7 @@ MANIFESTO    : Understand. Build. Explore.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,Node.js"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,bun"/>
 
 </p>
 
