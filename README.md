@@ -35,7 +35,7 @@ Observing reality through mathematics. Building systems through code.
 
 <td width="42%" align="center">
 
-<img src="./assets/wp10466292.jpg" width="300"/>
+<img src="./wp10466292.jpg" width="320" alt="Event Horizon"/>
 
 </td>
 
@@ -54,7 +54,12 @@ Observing reality through mathematics. Building systems through code.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+FIELD+MODULE+%3A%3A+INITIALIZED+%5D"/>
 </p>
 
-# ▶ Field Log
+<box background=surface radius=md border=1 padding=3 gap=2>
+  <row justify=between align=center><row gap=2 align=center><icon name=cpu color=info/>
+
+**FIELD MODULE**</row><badge label=ONLINE color=success/></row>
+
+  <caption>Identity confirmed · Research modules loading...</caption></box>
 
 ```text
 SEEKER       : Hari G K
@@ -80,9 +85,12 @@ MANIFESTO    : Understand. Build. Explore.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+RESEARCH+MODULE+%3A%3A+ONLINE+%5D"/>
 </p>
 
-# ▶ Research Notes
+<box background=surface radius=md border=1 padding=3 gap=2>
+  <row justify=between align=center><row gap=2 align=center><icon name=atom color=info/>
 
-I enjoy breaking complicated ideas into smaller systems and understanding the reasoning behind them.
+**RESEARCH MODULE**</row><badge label=ACTIVE color=info/></row>
+
+  <caption>Exploration through mathematics, algorithms and physics.</caption></box>
 
 ## Current Focus
 
@@ -111,7 +119,12 @@ I enjoy breaking complicated ideas into smaller systems and understanding the re
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+COMPUTATIONAL+CORE+%3A%3A+LOADED+%5D"/>
 </p>
 
-# ▶ Toolchain
+<box background=surface radius=md border=1 padding=3 gap=2>
+  <row justify=between align=center><row gap=2 align=center><icon name=cpu color=info/>
+
+**COMPUTATIONAL CORE**</row><badge label=READY color=success/></row>
+
+  <caption>Languages detected. Tools synchronized.</caption></box>
 
 ### Languages
 
@@ -132,38 +145,35 @@ I enjoy breaking complicated ideas into smaller systems and understanding the re
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=720&lines=%5B+SKILL+DIAGNOSTICS+%3A%3A+INITIALIZING+%5D;SCANNING+CORE+COMPETENCIES...;%5B+SKILL+MATRIX+ONLINE+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=650&color=D4A15A&center=true&vCenter=true&width=720&lines=%5B+SKILL+DIAGNOSTICS+%3A%3A+INITIALIZING+%5D;SCANNING+CORE+COMPETENCIES...;%5B+SKILL+MATRIX+ONLINE+%5D"/>
 </p>
 
-# ▶ Skill Diagnostics
+<box background=surface radius=md border=1 padding=3 gap=3>
+  <row justify=between align=center><row gap=2 align=center><icon name=gauge color=info/>
 
-### Skill Matrix
+**SKILL DIAGNOSTICS**</row><badge label=ANALYZING color=warning/></row>
 
-<p align="center">
+  <caption>Current learning depth across your stack.</caption>
 
-<img src="./assets/image.png" width="720"/>
+  ### Skill Matrix
 
-</p>
+  <box radius=md clip border=1>
+    <AsyncImage query="futuristic programming skill matrix donut chart dark HUD" aspectRatio="5:3" width="100%" maxHeight=420/>
+  </box>
 
----
+  ---
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=650&color=7AA2F7&center=true&vCenter=true&width=720&lines=%5B+NEURAL+MAPPING+%3A%3A+ENGAGED+%5D;CALCULATING+RELATIVE+STRENGTHS...;%5B+NEURAL+RADAR+ONLINE+%5D"/>
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=650&color=7AA2F7&center=true&vCenter=true&width=720&lines=%5B+NEURAL+MAPPING+%3A%3A+ENGAGED+%5D;CALCULATING+RELATIVE+STRENGTHS...;%5B+NEURAL+RADAR+ONLINE+%5D"/>
+  </p>
 
-### Neural Radar
+  ### Neural Radar
 
-<p align="center">
+  <box radius=md clip border=1>
+    <AsyncImage query="futuristic neural radar hexagon HUD blue dark interface" aspectRatio="5:3" width="100%" maxHeight=420/>
+  </box>
 
-<img src="./assets/gg.svg" width="720"/>
-
-</p>
-
-<p align="center">
-
-`Diagnostics reflect current learning depth.`
-
-</p>
+  <caption>Diagnostics reflect current learning depth • Updated throughout the expedition.</caption></box>
 
 ---
 
@@ -171,7 +181,12 @@ I enjoy breaking complicated ideas into smaller systems and understanding the re
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+MATHEMATICAL+MODULE+%3A%3A+ACTIVE+%5D"/>
 </p>
 
-# ▶ Equations & Principles
+<box background=surface radius=md border=1 padding=3 gap=2>
+  <row justify=between align=center><row gap=2 align=center><icon name=sigma color=info/>
+
+**MATHEMATICAL MODULE**</row><badge label=ACTIVE color=info/></row>
+
+  <caption>Patterns. Structure. Reality.</caption></box>
 
 | Equation | Perspective |
 |-----------|-------------|
@@ -189,7 +204,12 @@ I enjoy breaking complicated ideas into smaller systems and understanding the re
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+MISSION+CONTROL+%3A%3A+ACTIVE+%5D"/>
 </p>
 
-# ▶ Current Focus
+<box background=surface radius=md border=1 padding=3 gap=2>
+  <row justify=between align=center><row gap=2 align=center><icon name=rocket color=info/>
+
+**MISSION CONTROL**</row><badge label=TRACKING color=warning/></row>
+
+  <caption>Current objectives and trajectory.</caption></box>
 
 ```text
 PRIMARY OBJECTIVE
@@ -199,14 +219,15 @@ SECONDARY OBJECTIVE
 → Build meaningful software projects.
 
 METHOD
+
 Learn
- ↓
+  ↓
 Implement
- ↓
+  ↓
 Analyze
- ↓
+  ↓
 Improve
- ↓
+  ↓
 Repeat
 ```
 
@@ -216,7 +237,12 @@ Repeat
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+EXPEDITION+MODULE+%3A%3A+TRACKING+%5D"/>
 </p>
 
-# ▶ Current Expedition
+<box background=surface radius=md border=1 padding=3 gap=2>
+  <row justify=between align=center><row gap=2 align=center><icon name=route color=info/>
+
+**EXPEDITION MODULE**</row><badge label=ONGOING color=info/></row>
+
+  <caption>Every completed checkpoint moves the expedition forward.</caption></box>
 
 - [x] Git & GitHub
 - [x] C++ Fundamentals
@@ -232,7 +258,12 @@ Repeat
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+PROJECT+MODULE+%3A%3A+ACTIVE+%5D"/>
 </p>
 
-# ▶ Expedition Log
+<box background=surface radius=md border=1 padding=3 gap=2>
+  <row justify=between align=center><row gap=2 align=center><icon name=folder color=info/>
+
+**PROJECT MODULE**</row><badge label=BUILDING color=warning/></row>
+
+  <caption>Experiments become systems through iteration.</caption></box>
 
 ### Mission 01 — DSA-Cpp
 
@@ -270,7 +301,12 @@ Personal developer website.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+TELEMETRY+MODULE+%3A%3A+CONNECTED+%5D"/>
 </p>
 
-# ▶ GitHub Telemetry
+<box background=surface radius=md border=1 padding=3 gap=2>
+  <row justify=between align=center><row gap=2 align=center><icon name=activity color=info/>
+
+**TELEMETRY MODULE**</row><badge label=SYNC color=success/></row>
+
+  <caption>GitHub telemetry linked to the current expedition.</caption></box>
 
 <p align="center">
 
@@ -294,7 +330,12 @@ Personal developer website.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+OBSERVATORY+%3A%3A+OPEN+%5D"/>
 </p>
 
-# ▶ Observatory
+<box background=surface radius=md border=1 padding=3 gap=2>
+  <row justify=between align=center><row gap=2 align=center><icon name=telescope color=info/>
+
+**OBSERVATORY**</row><badge label=OPEN color=info/></row>
+
+  <caption>Curiosity extends beyond software.</caption></box>
 
 | Interest | Inspiration |
 |-----------|-------------|
@@ -328,7 +369,12 @@ Personal developer website.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+COMMUNICATIONS+%3A%3A+READY+%5D"/>
 </p>
 
-# ▶ Contact
+<box background=surface radius=md border=1 padding=3 gap=2>
+  <row justify=between align=center><row gap=2 align=center><icon name=radio color=info/>
+
+**COMMUNICATIONS**</row><badge label=READY color=success/></row>
+
+  <caption>Signals open for collaboration and conversation.</caption></box>
 
 <p align="center">
 
