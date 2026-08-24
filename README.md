@@ -1,60 +1,81 @@
 <div align="center">
 
-# 🏴‍☠️ Hari G K
+# Hari G K
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Learning+C%2B%2B+%26+Data+Structures;Building+Projects;One+Commit+at+a+Time;Still+Sailing+the+Grand+Line..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Engineering+the+impossible.;C%2B%2B+%7C+DSA+%7C+Physics+%7C+Mathematics;Building+systems+one+equation+at+a+time.;Still+sailing+the+Grand+Line+of+Knowledge." alt="Typing SVG"/>
 
-*"The sea is vast. Keep sailing."* 🌊
+*"The universe rewards curiosity before certainty."*
 
 </div>
 
 ---
 
-# 🧭 Captain's Log
+## Scientific Log
 
-```bash
-$ whoami
-Hari G K
-
-$ role
-3rd Year Engineering Student
-
-$ current_focus
-C++ | Data Structures & Algorithms | Projects
-
-$ destination
-Software Engineering Internship
+```text
+Researcher : Hari G K
+Status     : Third-Year Engineering Student
+Mission    : Software Engineering • C++ • DSA
+Coordinates: Earth
+Trajectory : Internship → Engineer → Lifelong Learner
 ```
 
 ---
 
-# ⚓ About Me
+## About Me
 
-- 🎓 Third-year Engineering student passionate about software development.
-- 💻 Currently mastering **C++** and **Data Structures & Algorithms**.
-- 🚀 Building projects while preparing for internships.
-- 🌊 Learning one commit at a time.
+I'm fascinated by the intersection of **software, mathematics, and physics**.
+
+Whether it's proving an algorithm's time complexity, understanding orbital mechanics, or building efficient software, I enjoy breaking complex ideas into simple systems.
+
+Current interests:
+
+- C++ and Data Structures & Algorithms
+- Mathematical thinking for problem solving
+- Physics-inspired curiosity
+- Building projects that solve real problems
 
 ---
 
-# ⚔️ Current Voyage
+## Current Arc
+
+> Every great journey begins with a single step.
 
 - [x] Git & GitHub
 - [ ] Complete DSA Roadmap
-- [ ] Build Portfolio Website
-- [ ] Ship impactful projects
+- [ ] Build a Portfolio Website
+- [ ] Contribute to Open Source
 
 ---
 
-# 💠 Tech Arsenal
+## The Equations I Like
+
+<div align="center">
+
+| Equation | Why |
+|----------|-----|
+| `E = mc²` | Elegance in simplicity |
+| `F = ma` | Understanding motion |
+| `e^{iπ}+1=0` | The most beautiful identity |
+| `O(log n)` | Where algorithms become magic |
+
+</div>
+
+---
+
+## Tech Arsenal
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,c,java"/>
 
-### Tools & Platforms
+### Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
@@ -62,20 +83,18 @@ Software Engineering Internship
 
 ---
 
-# 🏝️ Islands Conquered
+## Expedition Log
 
-| Project | Description |
-|---------|-------------|
-| **DSA-Cpp** | My complete C++ DSA journey. |
-| **Smart Grid** | Engineering project on efficient power management. |
-| **Mini Projects** | Small projects built while learning. |
-| **Portfolio** | Personal developer website *(coming soon).* |
-
-> Every island conquered adds another story to the voyage.
+| Project | Status |
+|---------|--------|
+| DSA-Cpp | Active |
+| Smart Grid | Complete |
+| Mini Projects | Growing |
+| Portfolio | In Progress |
 
 ---
 
-# 📊 Voyage Stats
+## GitHub Analytics
 
 <div align="center">
 
@@ -87,7 +106,7 @@ Software Engineering Internship
 
 ---
 
-# 🔥 Commitment Streak
+## Commitment Streak
 
 <div align="center">
 
@@ -97,7 +116,20 @@ Software Engineering Internship
 
 ---
 
-# 📜 Connect With Me
+## Beyond Code
+
+| Interest | Inspiration |
+|----------|-------------|
+| Physics | Understanding reality |
+| Mathematics | Finding hidden patterns |
+| One Piece | Adventure beyond the horizon |
+| Bleach | Discipline and growth |
+
+> The references stay subtle—the mindset matters more than the fandom.
+
+---
+
+## Connect
 
 <div align="center">
 
@@ -119,10 +151,10 @@ Software Engineering Internship
 
 <div align="center">
 
-### 🏴‍☠️ Final Log Entry
+### Final Transmission
 
-> *"A ship in harbor is safe, but that's not what ships are built for."*
+*"The sea is vast, the universe even more so. Keep exploring."*
 
-<img src="https://komarev.com/ghpvc/?username=Hariiigk&style=flat-square&color=58A6FF" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Hariiigk&style=flat-square&color=58A6FF"/>
 
 </div>
