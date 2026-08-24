@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=900&pause=700&color=7AA2F7&center=true&vCenter=true&width=760&lines=Engineering+Student;C%2B%2B+%7C+DSA+%7C+Physics+%7C+Mathematics;Software+Engineering+%7C+Problem+Solving;Curiosity+Protocol%3A+ACTIVE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=600&pause=2000&color=7AA2F7&center=true&vCenter=true&width=760&lines=Engineering+Student;C%2B%2B+%7C+DSA+%7C+Physics+%7C+Mathematics;Software+Engineering+%7C+Problem+Solving;Curiosity+Protocol%3A+ACTIVE"/>
 
 </p>
 
