@@ -35,7 +35,7 @@ Observing reality through mathematics. Building systems through code.
 
 <td width="42%" align="center">
 
-<img src="./assets/image.png" width="300"/>
+<img src="./assets/wp10466292.jpg" width="300"/>
 
 </td>
 
@@ -141,7 +141,7 @@ I enjoy breaking complicated ideas into smaller systems and understanding the re
 
 <p align="center">
 
-<img src="./assets/skill-matrix.svg" width="720"/>
+<img src="./assets/image.png" width="720"/>
 
 </p>
 
@@ -155,7 +155,7 @@ I enjoy breaking complicated ideas into smaller systems and understanding the re
 
 <p align="center">
 
-<img src="./assets/neural-radar.svg" width="720"/>
+<img src="./assets/gg.svg" width="720"/>
 
 </p>
 
