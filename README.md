@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=600&pause=2000&color=7AA2F7&center=true&vCenter=true&width=760&lines=Engineering+Student;C%2B%2B+%7C+DSA+%7C+Physics+%7C+Mathematics;Software+Engineering+%7C+Problem+Solving;Curiosity+Protocol%3A+ACTIVE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=600&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&lines=Engineering+Student;C%2B%2B+%7C+DSA+%7C+Physics+%7C+Mathematics;Software+Engineering+%7C+Problem+Solving;Curiosity+Protocol%3A+ACTIVE"/>
 
 </p>
 
@@ -82,7 +82,7 @@ MANIFESTO    : Understand. Build. Explore.
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+RESEARCH+MODULE+%3A%3A+ONLINE+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=500&pause=2000&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+RESEARCH+MODULE+%3A%3A+ONLINE+%5D"/>
 </p>
 
 <box background=surface radius=md border=1 padding=3 gap=2>
@@ -116,7 +116,7 @@ MANIFESTO    : Understand. Build. Explore.
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+COMPUTATIONAL+CORE+%3A%3A+LOADED+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=500&pause=2000&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+COMPUTATIONAL+CORE+%3A%3A+LOADED+%5D"/>
 </p>
 
 <box background=surface radius=md border=1 padding=3 gap=2>
