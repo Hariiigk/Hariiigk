@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1000&pause=6000&color=FFFFFF&center=true&vCenter=true&width=720&lines=Hari+G+K"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1000&pause=7000&color=FFFFFF&center=true&vCenter=true&width=720&lines=Hari+G+K"/>
 
 <br>
 
@@ -51,7 +51,7 @@ Observing reality through mathematics. Building systems through code.
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=700&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+FIELD+MODULE+%3A%3A+INITIALIZED+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=700&pause=7000&color=D4A15A&center=true&vCenter=true&width=700&lines=%5B+FIELD+MODULE+%3A%3A+INITIALIZED+%5D"/>
 </p>
 
 <box background=surface radius=md border=1 padding=3 gap=2>
@@ -82,7 +82,7 @@ MANIFESTO    : Understand. Build. Explore.
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=500&pause=2000&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+RESEARCH+MODULE+%3A%3A+ONLINE+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=500&pause=7000&color=7AA2F7&center=true&vCenter=true&width=700&lines=%5B+RESEARCH+MODULE+%3A%3A+ONLINE+%5D"/>
 </p>
 
 <box background=surface radius=md border=1 padding=3 gap=2>
