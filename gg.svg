@@ -1,0 +1,91 @@
+<svg width="520" height="340" viewBox="0 0 520 340" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+text{
+font-family:'JetBrains Mono', monospace;
+fill:white;
+}
+.title{
+font-size:24px;
+font-weight:bold;
+}
+.label{
+font-size:14px;
+}
+.grid{
+stroke:#2A2F3A;
+stroke-width:1.5;
+fill:none;
+opacity:.8;
+}
+.axis{
+stroke:#3B4352;
+stroke-width:1;
+}
+.poly{
+fill:#58A6FF22;
+stroke:#58A6FF;
+stroke-width:3;
+}
+.dot{
+fill:#D4A15A;
+}
+</style>
+
+<rect width="520" height="340" rx="18" fill="#0D1117"></rect>
+
+<text x="25" y="35" class="title">Neural Radar</text>
+
+<!-- Radar Grid -->
+
+<polygon class="grid" points="260,55 360,105 360,235 260,285 160,235 160,105"></polygon>
+
+<polygon class="grid" points="260,90 325,122 325,218 260,250 195,218 195,122"></polygon>
+
+<polygon class="grid" points="260,125 292,141 292,199 260,215 228,199 228,141"></polygon>
+
+<!-- Axis -->
+
+<line class="axis" x1="260" y1="55" x2="260" y2="285"></line>
+<line class="axis" x1="160" y1="105" x2="360" y2="235"></line>
+<line class="axis" x1="360" y1="105" x2="160" y2="235"></line>
+
+<!-- Skill Polygon -->
+
+<polygon class="poly" points="
+260,95
+300,128
+285,184
+260,192
+212,180
+220,135
+"></polygon>
+
+<!-- Points -->
+
+<circle class="dot" cx="260" cy="95" r="4"></circle>
+<circle class="dot" cx="300" cy="128" r="4"></circle>
+<circle class="dot" cx="285" cy="184" r="4"></circle>
+<circle class="dot" cx="260" cy="192" r="4"></circle>
+<circle class="dot" cx="212" cy="180" r="4"></circle>
+<circle class="dot" cx="220" cy="135" r="4"></circle>
+
+<!-- Labels -->
+
+<text x="260" y="28" text-anchor="middle" class="label">C++</text>
+
+<text x="385" y="102" class="label">Git</text>
+
+<text x="382" y="244" class="label">Data Structures</text>
+
+<text x="260" y="312" text-anchor="middle" class="label">Python</text>
+
+<text x="68" y="244" class="label">CSS</text>
+
+<text x="60" y="102" class="label">HTML</text>
+
+<!-- Center -->
+
+<circle cx="260" cy="170" r="7" fill="#D4A15A"></circle>
+
+</svg>
