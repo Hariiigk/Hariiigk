@@ -32,7 +32,7 @@ COORDINATES  : EARTH
 
 <td width="40%" align="center">
 
-<img src="./image.png" width="300" alt="Event Horizon"/>
+<img src="./wp10466292.jpg" width="300" alt="Event Horizon"/>
 
 </td>
 
