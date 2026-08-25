@@ -61,7 +61,7 @@ Observing reality through mathematics. Building systems through code.
 
   <caption>Identity confirmed · Research modules loading...</caption></box>
 
-```text
+```
 SEEKER       : Hari G K
 STATUS       : Engineering Student
 MISSION      : Software Engineering • C++ • DSA
